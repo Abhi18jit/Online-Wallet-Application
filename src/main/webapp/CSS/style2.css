@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.operations .link-1:hover{
+	color: red;
+}
+.b-head{
+	font-size: 1.2 rem;
+}
+.b-details{
+	margin-top:1rem;
+	font-size: 1.6rem;
+	
+}
+#state{
+	border-style: none;
+    border-bottom: 1px solid #c4c4e2;
+    border-left: 1px solid #c4c4e2;
+    height: 4.5vh;
+    background: linear-gradient(to right,rgb(246, 252, 252),rgb(233, 229, 229));
+    outline: none;
+}
